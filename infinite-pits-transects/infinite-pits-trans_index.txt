@@ -1,0 +1,4 @@
+simulation_number	D	h_c	S_c	b_0	debris_radius	debris_depth	cone_height	cone_width	days
+1	0.001	0.08	1.15	0.04	0.25	100.0	0.801	1.8	29.99
+2	0.005	0.08	1.15	0.04	0.25	100.0	0.606	2.325	29.99
+3	0.01	0.08	1.15	0.04	0.25	100.0	0.513	2.8	29.99
