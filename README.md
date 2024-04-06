@@ -2,6 +2,8 @@ Data, model, and figure generation code to accompany the manuscript:
 
 R.M. Strickland and M.D.Covington (2024). The formation of glacier dirt cones, submitted to Journal of Glaciology. 
 
+Running the model scripts requires Landlab. Please go to landlab.github.io for download instructions. 
+
 # Description of Contents:
 
 ## Scripts:
